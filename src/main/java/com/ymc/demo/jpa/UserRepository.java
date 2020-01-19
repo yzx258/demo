@@ -21,7 +21,7 @@ public interface UserRepository extends JpaRepository<DemoUser,Long> {
     DemoUser findByUserName(String userName);
 
     /**
-     * JPA手动编写SQL，查询所有数据
+     * JPA手动编写SQL，查询所有数据1
      * @return
      */
     @Query(value = "select * from demo_user",nativeQuery = true)
