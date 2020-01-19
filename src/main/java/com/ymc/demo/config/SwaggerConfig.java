@@ -12,11 +12,8 @@ import springfox.documentation.spring.web.plugins.Docket;
 
 /**
  * @author yucw
+ * 我是提交的分支类
  * @date 2020/1/19 9:10
- */
-/**
- * 拦截所有请求
- * Created by yanshao on 2019/4/30.
  */
 @SpringBootConfiguration
 public class SwaggerConfig implements WebMvcConfigurer {
