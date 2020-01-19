@@ -12,6 +12,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 
 /**
  * @author yucw
+ * 我是提交的分支类
  * @date 2020/1/19 9:10
  */
 @SpringBootConfiguration
